@@ -26,22 +26,16 @@
                 </thead>
                 <tbody>
                 <tr>
-                    <td class="text-blue-dark">8.0.2</td>
-                    <td>2021-08-02</td>
-                    <td><a href="<?=$view['urlbaseaddr'] ?>files/filebrowser-8.0.2.zip" target="_blank">Download</a></td>
-                    <td><a href="<?=$view['urlbaseaddr'] ?>files/filebrowser-8.0.2.tar.gz" target="_blank">Download</a></td>
+                    <td class="text-blue-dark">8.1.0 (PHP 8.0 - 8.2)</td>
+                    <td>2023-05-04</td>
+                    <td><a href="https://github.com/linuxforphp/filebrowser/archive/8.1.0.zip" target="_blank">Download</a></td>
+                    <td><a href="https://github.com/linuxforphp/filebrowser/archive/8.1.0.tar.gz" target="_blank">Download</a></td>
                 </tr>
                 <tr>
-                    <td class="text-blue-dark">8.0.1</td>
-                    <td>2021-07-30</td>
-                    <td><a href="<?=$view['urlbaseaddr'] ?>files/filebrowser-8.0.1.zip" target="_blank">Download</a></td>
-                    <td><a href="<?=$view['urlbaseaddr'] ?>files/filebrowser-8.0.1.tar.gz" target="_blank">Download</a></td>
-                </tr>
-                <tr>
-                    <td class="text-blue-dark">8.0.0</td>
-                    <td>2021-07-19</td>
-                    <td><a href="<?=$view['urlbaseaddr'] ?>files/filebrowser-8.0.0.zip" target="_blank">Download</a></td>
-                    <td><a href="<?=$view['urlbaseaddr'] ?>files/filebrowser-8.0.0.tar.gz" target="_blank">Download</a></td>
+                    <td class="text-blue-dark">8.0.3 (PHP 7.2 - 7.4)</td>
+                    <td>2023-05-04</td>
+                    <td><a href="https://github.com/linuxforphp/filebrowser/archive/8.0.3.zip" target="_blank">Download</a></td>
+                    <td><a href="https://github.com/linuxforphp/filebrowser/archive/8.0.3.tar.gz" target="_blank">Download</a></td>
                 </tr>
                 </tbody>
             </table>
